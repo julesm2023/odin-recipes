@@ -1,2 +1,3 @@
 # odin-recipes
-my recipe project in andela project
+my recipe web project in andela project
+i'm currently intersted in moonshot web development projects
